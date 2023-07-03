@@ -32,7 +32,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
 <br>   
 
-<div align="center">
+<div align="left">
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
