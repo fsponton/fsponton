@@ -47,7 +47,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?](https://www.linkedin.com/in/juan-francisco-sponton-moretti/)color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  juan-francisco-sponton-moretti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
