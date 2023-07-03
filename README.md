@@ -26,7 +26,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <p align="center">
 
 - **Languages**:
-    
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256"width="40" height="40" alt="HTML" />
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
