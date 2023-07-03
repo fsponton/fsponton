@@ -3,8 +3,6 @@
 	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Hola+a+tod@s,+soy+Francisco+Sponton+Fullstack+Developer..&hearts;"></a>
 </p>
 
-<br>
-
 **Sobre mi**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 Soy desarrollador fullstack con una solida experiencia en el desarrollo de aplicaciones web. Aunque me siento cómodo trabajando tanto en el frontend como en el backend, mi verdadera pasión y enfoque se centran en el backend, en la construcción api's  robustas y eficientes utilizando Node.js, Express y TypeScript.
