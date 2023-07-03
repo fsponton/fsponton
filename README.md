@@ -28,7 +28,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <br>   
 
 
-## <b>Contacto!</b>
+# <b>Contacto!</b>
 <br> 
 <div align='left'>
 
