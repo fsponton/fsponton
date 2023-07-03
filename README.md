@@ -12,7 +12,7 @@ Cuento con años de experiencia en el desarrollo de aplicaciones utilizando tecn
 
 Además de mis habilidades técnicas, tengo experiencia en el diseño de arquitecturas de software, la implementación de buenas prácticas de codificación y la integración de sistemas complejos. También valoro mucho la calidad del código, la documentación y las pruebas, y siempre busco superar las expectativas de los clientes y usuarios finales.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<b> Skills</b>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> <b> Skills</b>
 <br>
 
 <p align="center">
