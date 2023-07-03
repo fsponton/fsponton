@@ -20,7 +20,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <p align="center">
 
 <br>
-    <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
+<img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=avif&w=256" height="40" alt="HTML" />
 
@@ -28,8 +28,6 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
 <br>   
-
-<div align="left">
 
 
 ## <b>Contacto!</b>
