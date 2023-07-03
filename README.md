@@ -7,9 +7,6 @@
 
 **Sobre mi**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
 Soy desarrollador fullstack con una solida experiencia en el desarrollo de aplicaciones web. Aunque me siento cómodo trabajando tanto en el frontend como en el backend, mi verdadera pasión y enfoque se centran en el backend, en la construcción api's  robustas y eficientes utilizando Node.js, Express y TypeScript.
 
 <br><br>
