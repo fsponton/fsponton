@@ -18,13 +18,14 @@
 <p align="center">
 
 <br>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
+
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=avif&w=256" height="40" alt="HTML" />
 
 <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" background-color="#fff" height="40" alt="HTML" /> 
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
 <br>   
 
 
