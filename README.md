@@ -6,8 +6,8 @@
 <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" height="40"> *Sobre mi*
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 *Soy desarrollador fullstack con una solida experiencia en el desarrollo de aplicaciones web. Aunque me siento cómodo trabajando tanto en el frontend como en el backend, mi verdadera pasión y enfoque se centran en el backend, en la construcción api's  robustas y eficientes utilizando Node.js, Express y TypeScript*.
-
 <br>
+
 *Cuento con años de experiencia en el desarrollo de aplicaciones utilizando tecnologías como Node.js, Express, TypeScript, y diversas bases de datos, incluyendo PostgreSQL y MongoDB. Mi enfoque principal es la construcción de APIs eficientes, escalables y seguras*.
 
 *Además de mis habilidades técnicas, tengo experiencia en el diseño de arquitecturas de software, la implementación de buenas prácticas de codificación y la integración de sistemas complejos. También valoro mucho la calidad del código, la documentación y las pruebas, y siempre busco superar las expectativas de los clientes y usuarios finales*.
