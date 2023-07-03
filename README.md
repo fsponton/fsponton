@@ -19,7 +19,6 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 
 <p align="center">
 
-- **Languages**:
 <br>
     <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
