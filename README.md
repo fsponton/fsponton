@@ -43,22 +43,18 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
 <a href="https://www.linkedin.com/in/juan-francisco-sponton-moretti/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: Juan Francisco Sponton Moretti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 2px;"/>
 </a>
-</li>
 
 
-<li>
+
 <a href="mailto:francisco.sponton@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Francisco Sponton-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
+
 </div>
 
 <br>
