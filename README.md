@@ -31,7 +31,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
   
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=avif&w=256" height="40" alt="HTML" />
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-express-9-1175170.png?f=avif&w=256" background-color:"white" height="40" alt="HTML" /> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-express-9-1175170.png?f=avif&w=256" background-color="white" height="40" alt="HTML" /> 
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
 <br>   
