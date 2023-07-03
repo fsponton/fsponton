@@ -40,7 +40,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+<br> 
 <div align='left'>
 
 
@@ -48,7 +48,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 <img src="https://img.shields.io/badge/linkedin: Juan Francisco Sponton Moretti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 2px;"/>
 </a>
 
-
+<br>
 
 <a href="mailto:francisco.sponton@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Francisco Sponton-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
