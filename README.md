@@ -27,7 +27,7 @@ Además de mis habilidades técnicas, tengo experiencia en el diseño de arquite
 
 - **Languages**:
 <br>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=256" height="40" alt="HTML" />
+    <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=avif&w=256" height="40" alt="HTML" />
 
