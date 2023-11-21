@@ -18,10 +18,15 @@
 <p align="center">
 
 <br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+
+
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" height="40" alt="icon javascript" /> 
 
-<img width="96" height="96" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
 
 
 
