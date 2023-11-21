@@ -24,8 +24,11 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" height="40" alt="icon javascript" /> 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
+<img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/>
 
 
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
@@ -33,6 +36,10 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=avif&w=256" height="40" alt="HTML" />
 
 <img src="https://img.icons8.com/?size=512&id=SDVmtZ6VBGXt&format=png" background-color="#fff" height="40" alt="HTML" /> 
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v1.png" alt="bootstrap--v1"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 
 <br>   
 
