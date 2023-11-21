@@ -21,7 +21,9 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" height="40" alt="icon javascript" /> 
 
-<img width="48" height="50" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+<a  href="https://icons8.com/icon/84710/bootstrap">Bootstrap</a> icon by <a href="https://icons8.com">Icons8</a>
+
+
 
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
