@@ -18,7 +18,7 @@
 <p align="center">
 
 <br>
-<img src="https://icons8.com/icon/g9mmSxx3SwAI/bootstrap" height="40" alt="icon bootstrap" /> 
+<img src="https://icons8.com/icon/g9mmSxx3SwAI/bootstrap&format=png" height="40" alt="icon bootstrap" /> 
 
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="icon javascript" /> 
