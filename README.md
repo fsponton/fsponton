@@ -21,7 +21,7 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png" height="40" alt="icon javascript" /> 
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+<img width="48" height="50" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
 
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
