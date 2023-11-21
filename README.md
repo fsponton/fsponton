@@ -12,13 +12,17 @@
 
 *Además de mis habilidades técnicas, tengo experiencia en el diseño de arquitecturas de software, implementación de buenas prácticas de codificación e integración entre sistemas web desarrollados. Valoro mucho la calidad del código y la documentación, siempre busco superar las expectativas de los clientes y usuarios finales*.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> <b> Skills</b>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> <b> Lenguajes y herramientas que utilizo</b>
 <br>
 
 <p align="center">
 
 <br>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="HTML" /> 
+<img src="https://icons8.com/icon/g9mmSxx3SwAI/bootstrap" height="40" alt="icon bootstrap" /> 
+
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" height="40" alt="icon javascript" /> 
+
 
 <img src="https://img.icons8.com/?size=512&id=54087&format=png" height="40" alt="HTML" />
   
