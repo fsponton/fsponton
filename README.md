@@ -1,14 +1,7 @@
 <div style="max-width: 100%; overflow-x: auto;">
   <p align="start">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=800&height=100&lines=Hola+a+tod@s,...;">
-</a>
-  </p>
-  <br/>
-  <p align="start">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=800&height=100&lines=soy+Francisco+Sponton+Fullstack+Developer..&hearts;"> 
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=800&height=100&lines=Hola+,+soy+Fran+Sponton+Fullstack+Developer..&hearts;">
   </p>
 </div>
 
